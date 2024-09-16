@@ -15,3 +15,6 @@ Files | Description
 [100-operations.so](./100-operations.so) | C dynamic library that contains C functions that can be called from Python
 [random.so](./random.so) | C dynamic library to inject in a giga million program
 [101-make_me_win.sh](./101-make_me_win.sh) | Bash script to inject the libmask.so library, using LD_PRELOAD, in the giga million program
+
+
+malcolms-anatomy
