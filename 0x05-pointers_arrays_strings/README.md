@@ -14,3 +14,5 @@ In this project, we explore the basics of pointers, arrays, and strings in C pro
 ```c
 void reset_to_98(int *n);
 
+
+Malcolm Iheremelam
